@@ -36,6 +36,8 @@ Welcome to the Interactive Image Enhancement project! This application allows yo
    python main.py
 5. Open a web browser and go to http://127.0.0.1:5000 to use the application.
 
+
+
 <footer>
     <p>Made by @achalnm</p>
     <p>
