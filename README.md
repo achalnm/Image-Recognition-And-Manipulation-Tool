@@ -27,7 +27,7 @@ Welcome to the Interactive Image Enhancement project! This application allows yo
    git clone https://github.com/achalnm/Image-Recognition-And-Manipulation-Tool.git
 2. Navigate to the project directory:
    ```bash
-   cd interactive-image-enhancement
+   cd Image-Recognition-And-Manipulation-Tool
 3. Install the required Python packages:
    ```bash
    pip install -r requirements.txt
